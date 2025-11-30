@@ -2,7 +2,7 @@
 projekt v **Digitální Akademii DATA (Czechitas)**
 
 ## O Projektu
-**Cíl projektu:** Porvnání **cen nemovitostí** v Praze a Středočeském kraji a návrh interaktivního nástroje, který pomůže s výběrem lokality ke koupi nemovitosti. Zkoumaly jsme **dojezdovou vzdálenost a dobu** z obcí Středočeského kraje a nemovitostí v Praze (zde jen hromadná doprava).
+**Cíl projektu:** Porovnání **cen nemovitostí** v Praze a Středočeském kraji a návrh interaktivního nástroje, který pomůže s výběrem lokality ke koupi nemovitosti. Zkoumaly jsme **dojezdovou vzdálenost a dobu** z obcí Středočeského kraje a nemovitostí v Praze (zde jen hromadná doprava).
 
 ## Zdrojové kódy
 Naleznete tu dva hlavní soubory, ve kterých najdete kódy pro získávání tras
